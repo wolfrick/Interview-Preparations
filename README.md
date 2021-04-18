@@ -1,4 +1,4 @@
-# Interview-Process
+# Coding Interview Guide
 Hi, I started writing this when I was preparing for google interviews, I went through many interview guides and videos, and compiled them here, with some of my thoughts and experience. If you are preparing for interviews, hope this might help. Also, I am open to suggestions.
 ### How will interview start:
 Interviewer always start with a brief introduction about themselves(in their current company only). After that, they will tell you about a bit of work/tech stack. There are generally two interviewers in an interview, one is the main interviewer, other is the senior guy, which acts as observer, and sometimes pitchin in case, he has something to ask, or want to correct something. Post that, your interview starts with a very basic question: Tell us something about yourself.
