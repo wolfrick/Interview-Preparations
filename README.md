@@ -26,7 +26,7 @@ After all that, you reason them, why are you switching and why this company, or 
 > Now I am looking for a change as I feel my knowledge is not being utilized and work is not challenging enough. I think I will get enough challenging work in GHJ.
 
 ### Technical interview starts 
-Interviewer will ask you a question that can be specific, or underspecified. *** Always think out loud, tell them everything you are thinking. ***
+Interviewer will ask you a question that can be specific, or underspecified. ***Always think out loud, tell them everything you are thinking.***
 
 #### Clarification Phase
 First thing you need to do is repeat question once. Write some test cases, very basic, only 2 to 3 and solve them manually and get them confirmed with interviewer. This will ensure that you understood the question completely. Ask interviewer if they have any specific test case to consider. Ask for any limitations/requirements they have in mind. If you have any assumptions do let them know, so they can help you with those, or guide you which one you can consider. 
