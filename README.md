@@ -32,11 +32,22 @@ Interviewer will ask you a question that can be specific, or underspecified. ***
 First thing you need to do is repeat question once. Write some test cases, very basic, only 2 to 3 and solve them manually and get them confirmed with interviewer. This will ensure that you understood the question completely. Ask interviewer if they have any specific test case to consider. Ask for any limitations/requirements they have in mind. 
 
 #### Thinking Phase
-After this, first you need to think of a solution, check how much time complexity it has, and discuss the same with the interviewer. Once it is done, try to optimize it in terms of space and time. 
+After this, first you need to think of a solution, check how much time complexity it has, and discuss the same with the interviewer. Check if it will be able to solve the problem and handle cases. Once it is done, try to optimize it in terms of space and time. Check again if optimized solution will be able to handle everything. Check if you are missing something. Think on the solution again, like you never made it before. All this, because people make mistakes. It will be fine if you are able to correct them during the interview itself. 
 
-#### Now you have a solution. What to do next?
+Now you have a solution in mind, now think what data structures will help you build your solution. Is it a stack, an array, a queue or a dictionary. Check always if there is a limitation to what you are going to use. Discuss the data structure you have in mind with the interviewer. It is always the case, that if you are going wrong, and missing something out, they are going to help you. Anyways an interview is just a discussion among two software engineers.
+
+#### Now you have a solution in mind. What to do next?
+Start with the code. You have a language. You are going to use that, and write something on a plain document. So, you need to have proficiency in atleast in one language.
+There are certain things that are needed in your code:
+1. Code should be clean.
+2. Use proper variable names instead of a, x or something.
+3. Code should be production ready.
+4. You should have modularised code.
+5. Test if it is will work correct or fail.
+
+#### You have a code written. Now what?
 1. Try to do dry runs on some examples.
-2. Try to test against corner cases. 
+2. Try to test against corner cases.
 3. Think what will happen for an empty input.
 4. Think what will happen for null input.
-5. Check for 
+5. Check for interesting inputs in mind, like out of range, too big number, negative number and so on.
