@@ -29,7 +29,7 @@ After all that, you reason them, why are you switching and why this company, or 
 Interviewer will ask you a question that can be specific, or underspecified. *** Always think out loud, tell them everything you are thinking. ***
 
 #### Clarification Phase
-First thing you need to do is repeat question once. Write some test cases, very basic, only 2 to 3 and solve them manually and get them confirmed with interviewer. This will ensure that you understood the question completely. Ask interviewer if they have any specific test case to consider. Ask for any limitations/requirements they have in mind. 
+First thing you need to do is repeat question once. Write some test cases, very basic, only 2 to 3 and solve them manually and get them confirmed with interviewer. This will ensure that you understood the question completely. Ask interviewer if they have any specific test case to consider. Ask for any limitations/requirements they have in mind. If you have any assumptions do let them know, so they can help you with those, or guide you which one you can consider. 
 
 #### Thinking Phase
 After this, first you need to think of a solution, check how much time complexity it has, and discuss the same with the interviewer. Check if it will be able to solve the problem and handle cases. Once it is done, try to optimize it in terms of space and time. Check again if optimized solution will be able to handle everything. Check if you are missing something. Think on the solution again, like you never made it before. All this, because people make mistakes. It will be fine if you are able to correct them during the interview itself. 
@@ -51,3 +51,11 @@ There are certain things that are needed in your code:
 3. Think what will happen for an empty input.
 4. Think what will happen for null input.
 5. Check for interesting inputs in mind, like out of range, too big number, negative number and so on.
+
+### How to behave in interview?
+1. **Talk and clarify** Always talk. Think out loud. Keep disucssing with the interviewer whatever is on your mind. Whatever the question is, always think and clarify some inputs, so you don't miss anything important.
+2. **Think** Always think. Anything you are writing/coding and answering, keep on thinking. There is always a chance that something important will come up if you keep thinking and you can avoid such mistakes.
+3. **Practice** Always practice. For any coding interview, all you need it practice. Revise data structures and algorithms, have their complexities in mind, so you can design a solution accordingly.
+
+And last, Best of Luck!
+
